@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(25, 25, 25) !important;
+  height: 100vh;
+}
+input::placeholder {
+  color: rgb(191, 190, 190) !important;
+}
+input {
+  color: white !important;
+}
